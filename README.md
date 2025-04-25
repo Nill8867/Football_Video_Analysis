@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Football Analysis Project
 
 ## Introduction
@@ -28,3 +29,7 @@ To run this project, you need to have the following requirements installed:
 - NumPy
 - Matplotlib
 - Pandas
+=======
+# Football_Video_Analysis
+Detects and tracks football players, referees, and ball using YOLO. Classifies teams via K-Means on t-shirt colors, calculates ball possession, player speed, and distance. Uses optical flow and perspective transform for accurate real-world tracking and analysis.
+>>>>>>> 649c582b20ec2d938f9d1f7aab1cb7ddc2062dbf
